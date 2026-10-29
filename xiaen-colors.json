@@ -1,6 +1,6 @@
 {
  "name": "Rex图标合集",
- "description": "by:夏恩｜共38个：多色标志20色 + 方形平台18个（QQ音乐/虎牙/B站/抖音/红果/网易云）",
+ "description": "by:夏恩｜共44个：Rex多色标志20色 + 平台18个（原图） + 儿童原创6个",
  "icons": [
   {
    "name": "Bright Red",
@@ -153,6 +153,30 @@
   {
    "name": "NE03 网易云 · 勃艮第",
    "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/ne03.png"
+  },
+  {
+   "name": "K01 蜜糖小熊",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/k01.png"
+  },
+  {
+   "name": "K02 软糖兔兔",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/k02.png"
+  },
+  {
+   "name": "K03 缤纷积木",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/k03.png"
+  },
+  {
+   "name": "K04 快乐气球",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/k04.png"
+  },
+  {
+   "name": "K05 糖果彩虹",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/k05.png"
+  },
+  {
+   "name": "K06 笑脸太阳",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/k06.png"
   }
  ]
 }
