@@ -1,6 +1,6 @@
 {
  "name": "Rex图标合集",
- "description": "by:夏恩｜共44个：Rex多色标志20色 + 平台18个（原图） + 儿童原创6个",
+ "description": "by:Rex模块研讨｜共67个：Rex标志27色（透明） + AVDB 10个 + 平台18个（原图） + 糖心6个 + 儿童原创6个",
  "icons": [
   {
    "name": "Bright Red",
@@ -81,6 +81,74 @@
   {
    "name": "Champagne",
    "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/champagne.png"
+  },
+  {
+   "name": "Obsidian",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/obsidian.png"
+  },
+  {
+   "name": "Pure Yellow",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/pure-yellow.png"
+  },
+  {
+   "name": "Lemon Yellow",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/lemon-yellow.png"
+  },
+  {
+   "name": "Sunflower Yellow",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/sunflower-yellow.png"
+  },
+  {
+   "name": "Amber Yellow",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/amber-yellow.png"
+  },
+  {
+   "name": "Champagne Yellow",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/champagne-yellow.png"
+  },
+  {
+   "name": "Mustard Yellow",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/mustard-yellow.png"
+  },
+  {
+   "name": "AVDB Play Blue",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/avdb-play-blue.png"
+  },
+  {
+   "name": "AVDB Play Dark",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/avdb-play-dark.png"
+  },
+  {
+   "name": "AVDB Play Purple",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/avdb-play-purple.png"
+  },
+  {
+   "name": "AVDB Play Purple · 透明",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/avdb-play-purple-clear.png"
+  },
+  {
+   "name": "AVDB AV Purple",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/avdb-av-purple.png"
+  },
+  {
+   "name": "AVDB Media",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/avdb-media.png"
+  },
+  {
+   "name": "AVDB Premium Graphite",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/avdb-premium-graphite.png"
+  },
+  {
+   "name": "AVDB Premium Midnight",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/avdb-premium-midnight.png"
+  },
+  {
+   "name": "AVDB Premium Plum",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/avdb-premium-plum.png"
+  },
+  {
+   "name": "AVDB Premium Plum · 透明",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/avdb-premium-plum-clear.png"
   },
   {
    "name": "QM01 QQ音乐 · 经典黄绿",
@@ -177,6 +245,30 @@
   {
    "name": "K06 笑脸太阳",
    "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/k06.png"
+  },
+  {
+   "name": "TX01 糖心 · 橙粉渐变",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/tx01.png"
+  },
+  {
+   "name": "TX02 糖心 · 玫瑰粉",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/tx02.png"
+  },
+  {
+   "name": "TX03 糖心 · 鸢尾紫",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/tx03.png"
+  },
+  {
+   "name": "TX01 糖心 · 橙粉渐变 · 透明",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/tx01-clear.png"
+  },
+  {
+   "name": "TX02 糖心 · 玫瑰粉 · 透明",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/tx02-clear.png"
+  },
+  {
+   "name": "TX03 糖心 · 鸢尾紫 · 透明",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/tx03-clear.png"
   }
  ]
 }
