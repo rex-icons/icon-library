@@ -1,6 +1,6 @@
 {
   "name": "Rex图标合集",
-  "description": "by:Rex模块研讨｜共67个：Rex标志27色（透明） + AVDB 10个 + 平台18个（原图） + 糖心6个 + 儿童原创6个",
+  "description": "by:Rex模块研讨｜共250个：Rex 透明61・底板53 + AVDB 31 + 平台54 + 糖心9 + 儿童18 + 角色24",
   "icons": [
     {
       "name": "Bright Red",
@@ -269,6 +269,738 @@
     {
       "name": "TX03 糖心 · 鸢尾紫 · 透明",
       "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/tx03-clear.png"
+    },
+    {
+      "name": "Ocean Blue · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc01-ocean-blue.png"
+    },
+    {
+      "name": "Lagoon Teal · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc02-lagoon-teal.png"
+    },
+    {
+      "name": "Jade Green · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc03-jade-green.png"
+    },
+    {
+      "name": "Amber Gold · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc04-amber-gold.png"
+    },
+    {
+      "name": "Coral Peach · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc05-coral-peach.png"
+    },
+    {
+      "name": "Rose Pink · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc06-rose-pink.png"
+    },
+    {
+      "name": "Cherry Red · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc07-cherry-red.png"
+    },
+    {
+      "name": "Graphite Silver · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc08-graphite-silver.png"
+    },
+    {
+      "name": "Sapphire · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc09-sapphire.png"
+    },
+    {
+      "name": "Midnight · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc10-midnight.png"
+    },
+    {
+      "name": "Glacier · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc11-glacier.png"
+    },
+    {
+      "name": "Peacock · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc12-peacock.png"
+    },
+    {
+      "name": "Pine · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc13-pine.png"
+    },
+    {
+      "name": "Sage · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc14-sage.png"
+    },
+    {
+      "name": "Matcha · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc15-matcha.png"
+    },
+    {
+      "name": "Olive Gold · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc16-olive-gold.png"
+    },
+    {
+      "name": "Honey · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc17-honey.png"
+    },
+    {
+      "name": "Terracotta · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc18-terracotta.png"
+    },
+    {
+      "name": "Burgundy · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc19-burgundy.png"
+    },
+    {
+      "name": "Raspberry · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc20-raspberry.png"
+    },
+    {
+      "name": "Dusty Rose · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc21-dusty-rose.png"
+    },
+    {
+      "name": "Grape · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc22-grape.png"
+    },
+    {
+      "name": "Iris · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc23-iris.png"
+    },
+    {
+      "name": "Lavender · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc24-lavender.png"
+    },
+    {
+      "name": "Steel Blue · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc25-steel-blue.png"
+    },
+    {
+      "name": "Mocha · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc26-mocha.png"
+    },
+    {
+      "name": "Champagne · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc27-champagne.png"
+    },
+    {
+      "name": "Obsidian · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc28-obsidian.png"
+    },
+    {
+      "name": "Electric Cyan · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc29a-electric-cyan.png"
+    },
+    {
+      "name": "Pure Red · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc29b-pure-red.png"
+    },
+    {
+      "name": "Deep Turquoise · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc30-deep-turquoise.png"
+    },
+    {
+      "name": "Eucalyptus · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc31-eucalyptus.png"
+    },
+    {
+      "name": "Lime Sherbet · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc32-lime-sherbet.png"
+    },
+    {
+      "name": "Burnt Orange · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc33-burnt-orange.png"
+    },
+    {
+      "name": "Copper Red · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc34-copper-red.png"
+    },
+    {
+      "name": "Mulberry · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc35-mulberry.png"
+    },
+    {
+      "name": "Magenta Violet · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc36-magenta-violet.png"
+    },
+    {
+      "name": "Periwinkle · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc37-periwinkle.png"
+    },
+    {
+      "name": "Warm Graphite · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc38-warm-graphite.png"
+    },
+    {
+      "name": "Pure Yellow · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc39-pure-yellow.png"
+    },
+    {
+      "name": "Lemon Yellow · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc40-lemon-yellow.png"
+    },
+    {
+      "name": "Sunflower Yellow · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc41-sunflower-yellow.png"
+    },
+    {
+      "name": "Amber Yellow · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc42-amber-yellow.png"
+    },
+    {
+      "name": "Champagne Yellow · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc43-champagne-yellow.png"
+    },
+    {
+      "name": "Mustard Yellow · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rc44-mustard-yellow.png"
+    },
+    {
+      "name": "Ocean Blue · 珠光底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rp01-ocean-blue.png"
+    },
+    {
+      "name": "Lagoon Teal · 珠光底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rp02-lagoon-teal.png"
+    },
+    {
+      "name": "Jade Green · 珠光底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rp03-jade-green.png"
+    },
+    {
+      "name": "Amber Gold · 珠光底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rp04-amber-gold.png"
+    },
+    {
+      "name": "Coral Peach · 珠光底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rp05-coral-peach.png"
+    },
+    {
+      "name": "Rose Pink · 珠光底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rp06-rose-pink.png"
+    },
+    {
+      "name": "Cherry Red · 珠光底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rp07-cherry-red.png"
+    },
+    {
+      "name": "Graphite Silver · 珠光底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rp08-graphite-silver.png"
+    },
+    {
+      "name": "B01 B站 · 经典粉 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/b01-rounded.png"
+    },
+    {
+      "name": "B02 B站 · 晴空蓝 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/b02-rounded.png"
+    },
+    {
+      "name": "B03 B站 · 鸢尾紫 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/b03-rounded.png"
+    },
+    {
+      "name": "D01 抖音 · 经典黑红青 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/d01-rounded.png"
+    },
+    {
+      "name": "D02 抖音 · 冰青 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/d02-rounded.png"
+    },
+    {
+      "name": "D03 抖音 · 玫红 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/d03-rounded.png"
+    },
+    {
+      "name": "HG01 红果短剧 · 经典橙 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/hg01-rounded.png"
+    },
+    {
+      "name": "HG02 红果短剧 · 桃花粉 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/hg02-rounded.png"
+    },
+    {
+      "name": "HG03 红果短剧 · 翡翠青 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/hg03-rounded.png"
+    },
+    {
+      "name": "NE01 网易云 · 经典红 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ne01-rounded.png"
+    },
+    {
+      "name": "NE02 网易云 · 鸢尾紫 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ne02-rounded.png"
+    },
+    {
+      "name": "NE03 网易云 · 勃艮第 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ne03-rounded.png"
+    },
+    {
+      "name": "QM01 QQ音乐 · 经典黄绿 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/qm01-rounded.png"
+    },
+    {
+      "name": "QM02 QQ音乐 · 冰湖蓝 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/qm02-rounded.png"
+    },
+    {
+      "name": "QM03 QQ音乐 · 香芋紫 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/qm03-rounded.png"
+    },
+    {
+      "name": "HY01 虎牙直播 · 经典金 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/hy01-rounded.png"
+    },
+    {
+      "name": "HY02 虎牙直播 · 砂糖橘 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/hy02-rounded.png"
+    },
+    {
+      "name": "HY03 虎牙直播 · 极光青 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/hy03-rounded.png"
+    },
+    {
+      "name": "K01 蜜糖小熊 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/k01-rounded.png"
+    },
+    {
+      "name": "K02 软糖兔兔 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/k02-rounded.png"
+    },
+    {
+      "name": "K03 缤纷积木 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/k03-rounded.png"
+    },
+    {
+      "name": "K04 快乐气球 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/k04-rounded.png"
+    },
+    {
+      "name": "K05 糖果彩虹 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/k05-rounded.png"
+    },
+    {
+      "name": "K06 笑脸太阳 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/k06-rounded.png"
+    },
+    {
+      "name": "TX01 糖心 · 橙粉渐变 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/tx01-rounded.png"
+    },
+    {
+      "name": "TX02 糖心 · 玫瑰粉 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/tx02-rounded.png"
+    },
+    {
+      "name": "TX03 糖心 · 鸢尾紫 · 圆角版",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/tx03-rounded.png"
+    },
+    {
+      "name": "头像 C01 · 奶油米",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/head-c01.png"
+    },
+    {
+      "name": "头像 C02 · 蜜桃粉",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/head-c02.png"
+    },
+    {
+      "name": "头像 C03 · 丁香紫",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/head-c03.png"
+    },
+    {
+      "name": "头像 C04 · 薄荷青",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/head-c04.png"
+    },
+    {
+      "name": "头像 C05 · 奶黄",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/head-c05.png"
+    },
+    {
+      "name": "头像 C06 · 雾蓝",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/head-c06.png"
+    },
+    {
+      "name": "全身 C01 · 奶油米",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/full-c01.png"
+    },
+    {
+      "name": "全身 C02 · 蜜桃粉",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/full-c02.png"
+    },
+    {
+      "name": "全身 C03 · 丁香紫",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/full-c03.png"
+    },
+    {
+      "name": "全身 C04 · 薄荷青",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/full-c04.png"
+    },
+    {
+      "name": "全身 C05 · 奶黄",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/full-c05.png"
+    },
+    {
+      "name": "全身 C06 · 雾蓝",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/full-c06.png"
+    },
+    {
+      "name": "AVDB Play Blue · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-play-blue-rounded.png"
+    },
+    {
+      "name": "AVDB Play Dark · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-play-dark-rounded.png"
+    },
+    {
+      "name": "AVDB Play Purple · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-play-purple-rounded.png"
+    },
+    {
+      "name": "AVDB AV Purple · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-av-purple-rounded.png"
+    },
+    {
+      "name": "AVDB Media · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-media-rounded.png"
+    },
+    {
+      "name": "AVDB Premium Graphite · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-premium-graphite-rounded.png"
+    },
+    {
+      "name": "AVDB Premium Midnight · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-premium-midnight-rounded.png"
+    },
+    {
+      "name": "AVDB Premium Plum · 底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-premium-plum-rounded.png"
+    },
+    {
+      "name": "AVDB Premium Graphite · 精修底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-premium-graphite-refined.png"
+    },
+    {
+      "name": "AVDB Premium Midnight · 精修底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-premium-midnight-refined.png"
+    },
+    {
+      "name": "AVDB Premium Plum · 精修底板",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-premium-plum-refined.png"
+    },
+    {
+      "name": "Electric Cyan",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/electric-cyan.png"
+    },
+    {
+      "name": "Periwinkle",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/periwinkle.png"
+    },
+    {
+      "name": "Lime Sherbet",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/lime-sherbet.png"
+    },
+    {
+      "name": "Amber Gold",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/amber-gold.png"
+    },
+    {
+      "name": "Cherry Red",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/cherry-red.png"
+    },
+    {
+      "name": "Jade Green",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/jade-green.png"
+    },
+    {
+      "name": "Graphite Silver",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/graphite-silver.png"
+    },
+    {
+      "name": "Ocean Blue",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/ocean-blue.png"
+    },
+    {
+      "name": "Magenta Violet",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/magenta-violet.png"
+    },
+    {
+      "name": "Coral Peach",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/coral-peach.png"
+    },
+    {
+      "name": "Lagoon Teal",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/lagoon-teal.png"
+    },
+    {
+      "name": "Warm Graphite",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/warm-graphite.png"
+    },
+    {
+      "name": "Deep Turquoise",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/deep-turquoise.png"
+    },
+    {
+      "name": "Copper Red",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/copper-red.png"
+    },
+    {
+      "name": "Burnt Orange",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/burnt-orange.png"
+    },
+    {
+      "name": "Rose Pink",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/rose-pink.png"
+    },
+    {
+      "name": "Mulberry",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/mulberry.png"
+    },
+    {
+      "name": "Eucalyptus",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/eucalyptus.png"
+    },
+    {
+      "name": "Ocean Blue · 纯色",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/solid-ocean-blue.png"
+    },
+    {
+      "name": "Lagoon Teal · 纯色",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/solid-lagoon-teal.png"
+    },
+    {
+      "name": "Jade Green · 纯色",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/solid-jade-green.png"
+    },
+    {
+      "name": "Amber Gold · 纯色",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/solid-amber-gold.png"
+    },
+    {
+      "name": "Coral Peach · 纯色",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/solid-coral-peach.png"
+    },
+    {
+      "name": "Rose Pink · 纯色",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/solid-rose-pink.png"
+    },
+    {
+      "name": "Cherry Red · 纯色",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/solid-cherry-red.png"
+    },
+    {
+      "name": "Graphite Silver · 纯色",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/solid-graphite-silver.png"
+    },
+    {
+      "name": "Ocean Blue · 珠光",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/pearl-ocean-blue.png"
+    },
+    {
+      "name": "Lagoon Teal · 珠光",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/pearl-lagoon-teal.png"
+    },
+    {
+      "name": "Jade Green · 珠光",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/pearl-jade-green.png"
+    },
+    {
+      "name": "Amber Gold · 珠光",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/pearl-amber-gold.png"
+    },
+    {
+      "name": "Coral Peach · 珠光",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/pearl-coral-peach.png"
+    },
+    {
+      "name": "Rose Pink · 珠光",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/pearl-rose-pink.png"
+    },
+    {
+      "name": "Cherry Red · 珠光",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/pearl-cherry-red.png"
+    },
+    {
+      "name": "Graphite Silver · 珠光",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/pearl-graphite-silver.png"
+    },
+    {
+      "name": "B01 B站 · 经典粉 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/b01-clear.png"
+    },
+    {
+      "name": "B02 B站 · 晴空蓝 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/b02-clear.png"
+    },
+    {
+      "name": "B03 B站 · 鸢尾紫 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/b03-clear.png"
+    },
+    {
+      "name": "D01 抖音 · 经典黑红青 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/d01-clear.png"
+    },
+    {
+      "name": "D02 抖音 · 冰青 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/d02-clear.png"
+    },
+    {
+      "name": "D03 抖音 · 玫红 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/d03-clear.png"
+    },
+    {
+      "name": "HG01 红果短剧 · 经典橙 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/hg01-clear.png"
+    },
+    {
+      "name": "HG02 红果短剧 · 桃花粉 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/hg02-clear.png"
+    },
+    {
+      "name": "HG03 红果短剧 · 翡翠青 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/hg03-clear.png"
+    },
+    {
+      "name": "NE01 网易云 · 经典红 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ne01-clear.png"
+    },
+    {
+      "name": "NE02 网易云 · 鸢尾紫 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ne02-clear.png"
+    },
+    {
+      "name": "NE03 网易云 · 勃艮第 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ne03-clear.png"
+    },
+    {
+      "name": "QM01 QQ音乐 · 经典黄绿 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/qm01-clear.png"
+    },
+    {
+      "name": "QM02 QQ音乐 · 冰湖蓝 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/qm02-clear.png"
+    },
+    {
+      "name": "QM03 QQ音乐 · 香芋紫 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/qm03-clear.png"
+    },
+    {
+      "name": "HY01 虎牙直播 · 经典金 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/hy01-clear.png"
+    },
+    {
+      "name": "HY02 虎牙直播 · 砂糖橘 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/hy02-clear.png"
+    },
+    {
+      "name": "HY03 虎牙直播 · 极光青 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/hy03-clear.png"
+    },
+    {
+      "name": "K01 蜜糖小熊 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/k01-clear.png"
+    },
+    {
+      "name": "K02 软糖兔兔 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/k02-clear.png"
+    },
+    {
+      "name": "K03 缤纷积木 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/k03-clear.png"
+    },
+    {
+      "name": "K04 快乐气球 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/k04-clear.png"
+    },
+    {
+      "name": "K05 糖果彩虹 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/k05-clear.png"
+    },
+    {
+      "name": "K06 笑脸太阳 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/k06-clear.png"
+    },
+    {
+      "name": "头像 C01 · 奶油米 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/head-c01-clear.png"
+    },
+    {
+      "name": "头像 C02 · 蜜桃粉 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/head-c02-clear.png"
+    },
+    {
+      "name": "头像 C03 · 丁香紫 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/head-c03-clear.png"
+    },
+    {
+      "name": "头像 C04 · 薄荷青 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/head-c04-clear.png"
+    },
+    {
+      "name": "头像 C05 · 奶黄 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/head-c05-clear.png"
+    },
+    {
+      "name": "头像 C06 · 雾蓝 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/head-c06-clear.png"
+    },
+    {
+      "name": "全身 C01 · 奶油米 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/full-c01-clear.png"
+    },
+    {
+      "name": "全身 C02 · 蜜桃粉 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/full-c02-clear.png"
+    },
+    {
+      "name": "全身 C03 · 丁香紫 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/full-c03-clear.png"
+    },
+    {
+      "name": "全身 C04 · 薄荷青 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/full-c04-clear.png"
+    },
+    {
+      "name": "全身 C05 · 奶黄 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/full-c05-clear.png"
+    },
+    {
+      "name": "全身 C06 · 雾蓝 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/full-c06-clear.png"
+    },
+    {
+      "name": "AVDB Play Blue · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-play-blue-clear.png"
+    },
+    {
+      "name": "AVDB Play Dark · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-play-dark-clear.png"
+    },
+    {
+      "name": "AVDB AV Purple · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-av-purple-clear.png"
+    },
+    {
+      "name": "AVDB Media · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-media-clear.png"
+    },
+    {
+      "name": "AVDB Premium Graphite · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-premium-graphite-clear.png"
+    },
+    {
+      "name": "AVDB Premium Midnight · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-premium-midnight-clear.png"
+    },
+    {
+      "name": "AVDB Premium Graphite · 精修透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-premium-graphite-refined-clear.png"
+    },
+    {
+      "name": "AVDB Premium Midnight · 精修透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-premium-midnight-refined-clear.png"
+    },
+    {
+      "name": "AVDB Premium Plum · 精修透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-premium-plum-refined-clear.png"
+    },
+    {
+      "name": "AVDB 字标 · 透明",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-wordmark-clear.png"
     }
   ]
 }
