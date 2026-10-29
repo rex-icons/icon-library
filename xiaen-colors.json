@@ -1,0 +1,158 @@
+{
+ "name": "夏恩多色标志图标",
+ "description": "夏恩图标库 by:夏恩｜共38个：多色标志20色 + 方形平台18个（QQ音乐/虎牙/B站/抖音/红果/网易云）",
+ "icons": [
+  {
+   "name": "Bright Red",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/bright-red.png"
+  },
+  {
+   "name": "Sapphire",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/sapphire.png"
+  },
+  {
+   "name": "Midnight",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/midnight.png"
+  },
+  {
+   "name": "Glacier",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/glacier.png"
+  },
+  {
+   "name": "Peacock",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/peacock.png"
+  },
+  {
+   "name": "Pine",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/pine.png"
+  },
+  {
+   "name": "Sage",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/sage.png"
+  },
+  {
+   "name": "Matcha",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/matcha.png"
+  },
+  {
+   "name": "Olive Gold",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/olive-gold.png"
+  },
+  {
+   "name": "Honey",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/honey.png"
+  },
+  {
+   "name": "Terracotta",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/terracotta.png"
+  },
+  {
+   "name": "Burgundy",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/burgundy.png"
+  },
+  {
+   "name": "Raspberry",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/raspberry.png"
+  },
+  {
+   "name": "Dusty Rose",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/dusty-rose.png"
+  },
+  {
+   "name": "Grape",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/grape.png"
+  },
+  {
+   "name": "Iris",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/iris.png"
+  },
+  {
+   "name": "Lavender",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/lavender.png"
+  },
+  {
+   "name": "Steel Blue",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/steel-blue.png"
+  },
+  {
+   "name": "Mocha",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/mocha.png"
+  },
+  {
+   "name": "Champagne",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/colors/champagne.png"
+  },
+  {
+   "name": "QM01 QQ音乐 · 经典黄绿",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/qm01.png"
+  },
+  {
+   "name": "QM02 QQ音乐 · 冰湖蓝",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/qm02.png"
+  },
+  {
+   "name": "QM03 QQ音乐 · 香芋紫",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/qm03.png"
+  },
+  {
+   "name": "HY01 虎牙直播 · 经典金",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/hy01.png"
+  },
+  {
+   "name": "HY02 虎牙直播 · 砂糖橘",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/hy02.png"
+  },
+  {
+   "name": "HY03 虎牙直播 · 极光青",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/hy03.png"
+  },
+  {
+   "name": "B01 B站 · 经典粉",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/b01.png"
+  },
+  {
+   "name": "B02 B站 · 晴空蓝",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/b02.png"
+  },
+  {
+   "name": "B03 B站 · 鸢尾紫",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/b03.png"
+  },
+  {
+   "name": "D01 抖音 · 经典黑红青",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/d01.png"
+  },
+  {
+   "name": "D02 抖音 · 冰青",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/d02.png"
+  },
+  {
+   "name": "D03 抖音 · 玫红",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/d03.png"
+  },
+  {
+   "name": "HG01 红果短剧 · 经典橙",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/hg01.png"
+  },
+  {
+   "name": "HG02 红果短剧 · 桃花粉",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/hg02.png"
+  },
+  {
+   "name": "HG03 红果短剧 · 翡翠青",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/hg03.png"
+  },
+  {
+   "name": "NE01 网易云 · 经典红",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/ne01.png"
+  },
+  {
+   "name": "NE02 网易云 · 鸢尾紫",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/ne02.png"
+  },
+  {
+   "name": "NE03 网易云 · 勃艮第",
+   "url": "https://raw.githubusercontent.com/xiaen-8/icon-library/main/square/ne03.png"
+  }
+ ]
+}
