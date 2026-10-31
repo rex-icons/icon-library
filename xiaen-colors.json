@@ -1,6 +1,6 @@
 {
   "name": "夏恩图标合集",
-  "description": "by:Rex模块研讨｜共380个：Rex 透明80・底板53 + AVDB 25 + 平台180 + 糖心6 + 儿童12 + 角色24",
+  "description": "by:Rex模块研讨｜共378个：Rex 透明80・底板53 + AVDB 23 + 平台180 + 糖心6 + 儿童12 + 角色24",
   "icons": [
     {
       "name": "Bright Red",
@@ -111,16 +111,8 @@
       "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/colors-fast/mustard-yellow.png"
     },
     {
-      "name": "AVDB Play Blue",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-play-blue.png"
-    },
-    {
       "name": "AVDB Play Purple · 透明",
       "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-play-purple-clear.png"
-    },
-    {
-      "name": "AVDB AV Purple",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-av-purple.png"
     },
     {
       "name": "AVDB Premium Plum · 透明",
