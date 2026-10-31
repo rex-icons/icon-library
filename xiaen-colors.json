@@ -1,6 +1,6 @@
 {
   "name": "Rex图标合集",
-  "description": "by:Rex模块研讨｜共413个：Rex 透明80・底板53 + AVDB 31 + 平台198 + 糖心9 + 儿童18 + 角色24",
+  "description": "by:Rex模块研讨｜共380个：Rex 透明80・底板53 + AVDB 25 + 平台180 + 糖心6 + 儿童12 + 角色24",
   "icons": [
     {
       "name": "Bright Red",
@@ -115,14 +115,6 @@
       "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-play-blue.png"
     },
     {
-      "name": "AVDB Play Dark",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-play-dark.png"
-    },
-    {
-      "name": "AVDB Play Purple",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-play-purple.png"
-    },
-    {
       "name": "AVDB Play Purple · 透明",
       "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-play-purple-clear.png"
     },
@@ -131,132 +123,8 @@
       "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-av-purple.png"
     },
     {
-      "name": "AVDB Media",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-media.png"
-    },
-    {
-      "name": "AVDB Premium Graphite",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-premium-graphite.png"
-    },
-    {
-      "name": "AVDB Premium Midnight",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-premium-midnight.png"
-    },
-    {
-      "name": "AVDB Premium Plum",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-premium-plum.png"
-    },
-    {
       "name": "AVDB Premium Plum · 透明",
       "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/avdb-premium-plum-clear.png"
-    },
-    {
-      "name": "QM01 QQ音乐 · 经典黄绿",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/qm01.png"
-    },
-    {
-      "name": "QM02 QQ音乐 · 冰湖蓝",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/qm02.png"
-    },
-    {
-      "name": "QM03 QQ音乐 · 香芋紫",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/qm03.png"
-    },
-    {
-      "name": "HY01 虎牙直播 · 经典金",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/hy01.png"
-    },
-    {
-      "name": "HY02 虎牙直播 · 砂糖橘",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/hy02.png"
-    },
-    {
-      "name": "HY03 虎牙直播 · 极光青",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/hy03.png"
-    },
-    {
-      "name": "B01 B站 · 经典粉",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/b01.png"
-    },
-    {
-      "name": "B02 B站 · 晴空蓝",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/b02.png"
-    },
-    {
-      "name": "B03 B站 · 鸢尾紫",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/b03.png"
-    },
-    {
-      "name": "D01 抖音 · 经典黑红青",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/d01.png"
-    },
-    {
-      "name": "D02 抖音 · 冰青",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/d02.png"
-    },
-    {
-      "name": "D03 抖音 · 玫红",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/d03.png"
-    },
-    {
-      "name": "HG01 红果短剧 · 经典橙",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/hg01.png"
-    },
-    {
-      "name": "HG02 红果短剧 · 桃花粉",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/hg02.png"
-    },
-    {
-      "name": "HG03 红果短剧 · 翡翠青",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/hg03.png"
-    },
-    {
-      "name": "NE01 网易云 · 经典红",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ne01.png"
-    },
-    {
-      "name": "NE02 网易云 · 鸢尾紫",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ne02.png"
-    },
-    {
-      "name": "NE03 网易云 · 勃艮第",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ne03.png"
-    },
-    {
-      "name": "K01 蜜糖小熊",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/k01.png"
-    },
-    {
-      "name": "K02 软糖兔兔",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/k02.png"
-    },
-    {
-      "name": "K03 缤纷积木",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/k03.png"
-    },
-    {
-      "name": "K04 快乐气球",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/k04.png"
-    },
-    {
-      "name": "K05 糖果彩虹",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/k05.png"
-    },
-    {
-      "name": "K06 笑脸太阳",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/k06.png"
-    },
-    {
-      "name": "TX01 糖心 · 橙粉渐变",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/tx01.png"
-    },
-    {
-      "name": "TX02 糖心 · 玫瑰粉",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/tx02.png"
-    },
-    {
-      "name": "TX03 糖心 · 鸢尾紫",
-      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/tx03.png"
     },
     {
       "name": "TX01 糖心 · 橙粉渐变 · 透明",
