@@ -1,6 +1,6 @@
 {
   "name": "夏恩图标合集",
-  "description": "by:Rex模块研讨｜共1059个：Rex 透明80・底板53 + AVDB 23 + 平台755 + 糖心6 + 儿童12 + 角色130",
+  "description": "by:Rex模块研讨｜共1069个：Rex 透明80・底板53 + AVDB 23 + 平台765 + 糖心6 + 儿童12 + 角色130",
   "icons": [
     {
       "name": "Bright Red",
@@ -4237,6 +4237,46 @@
     {
       "name": "trex003",
       "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/liangyou-trex003-1.png"
+    },
+    {
+      "name": "七猫短剧 · 珠光底板 · 官方标识512",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rexsq-qimao.png"
+    },
+    {
+      "name": "星芽短剧 · 珠光底板 · 官方标识512",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rexsq-xingya.png"
+    },
+    {
+      "name": "河马剧场 · 珠光底板 · 官方标识512",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rexsq-hema.png"
+    },
+    {
+      "name": "喜番短剧 · 珠光底板 · 官方标识512",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rexsq-xifan.png"
+    },
+    {
+      "name": "围观短剧 · 珠光底板 · 官方标识512",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rexsq-weiguan.png"
+    },
+    {
+      "name": "火龙漫剧 · 珠光底板 · 官方标识512",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rexsq-huolong.png"
+    },
+    {
+      "name": "柚漫剧 · 珠光底板 · 官方标识512",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rexsq-youman.png"
+    },
+    {
+      "name": "好看短剧 · 珠光底板 · 官方标识512",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rexsq-haokan.png"
+    },
+    {
+      "name": "抖音短剧 · 珠光底板 · 官方标识512",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rexsq-douyin.png"
+    },
+    {
+      "name": "通用短剧弹幕 · 珠光底板 · 气泡512",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rexsq-danmu.png"
     }
   ]
 }
