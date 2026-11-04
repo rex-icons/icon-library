@@ -1,6 +1,6 @@
 {
   "name": "夏恩图标合集",
-  "description": "by:Rex模块研讨｜共1050个：Rex 透明80・底板53 + AVDB 23 + 平台752 + 糖心6 + 儿童12 + 角色124",
+  "description": "by:Rex模块研讨｜共1059个：Rex 透明80・底板53 + AVDB 23 + 平台755 + 糖心6 + 儿童12 + 角色130",
   "icons": [
     {
       "name": "Bright Red",
@@ -4201,6 +4201,42 @@
     {
       "name": "TFEL头像 100",
       "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/tfelav-avatar-100.png"
+    },
+    {
+      "name": "rex-小恐龙-1",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/liangyou-dino-1.png"
+    },
+    {
+      "name": "rex-小恐龙-2",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/liangyou-dino-2.png"
+    },
+    {
+      "name": "rex-小恐龙-3",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/liangyou-dino-3.png"
+    },
+    {
+      "name": "rex-小恐龙-4",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/liangyou-dino-4.png"
+    },
+    {
+      "name": "rex-小恐龙-5",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/liangyou-dino-5.png"
+    },
+    {
+      "name": "rex-小恐龙-6",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/liangyou-dino-6.png"
+    },
+    {
+      "name": "REX 02",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/liangyou-quanx-rex-1.png"
+    },
+    {
+      "name": "REX(1)",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/liangyou-quanx-rex-2.png"
+    },
+    {
+      "name": "trex003",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/liangyou-trex003-1.png"
     }
   ]
 }
