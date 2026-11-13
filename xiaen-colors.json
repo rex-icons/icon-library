@@ -1,6 +1,6 @@
 {
   "name": "夏恩图标合集",
-  "description": "by:Rex模块研讨｜共1160个：Rex 透明121・珠光87 + AVDB 34 + 平台770 + 糖心6 + 儿童12 + 角色130",
+  "description": "by:Rex模块研讨｜共1260个：Rex 透明131・珠光97 + AVDB 40 + 平台826 + 糖心10 + 儿童24 + 角色132",
   "icons": [
     {
       "name": "TX01 糖心 · 橙粉渐变 · 透明",
@@ -4641,6 +4641,406 @@
     {
       "name": "APTV",
       "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/aptv-1.png"
+    },
+    {
+      "name": "珠光·REX·中灰",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-rex-zg-91.png"
+    },
+    {
+      "name": "珠光·REX·亮橙",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-rex-zg-92.png"
+    },
+    {
+      "name": "珠光·REX·亮绿",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-rex-zg-93.png"
+    },
+    {
+      "name": "珠光·REX·洋红",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-rex-zg-94.png"
+    },
+    {
+      "name": "珠光·REX·纯白",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-rex-zg-95.png"
+    },
+    {
+      "name": "珠光·REX·纯红",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-rex-zg-96.png"
+    },
+    {
+      "name": "珠光·REX·纯蓝",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-rex-zg-97.png"
+    },
+    {
+      "name": "珠光·REX·纯青",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-rex-zg-98.png"
+    },
+    {
+      "name": "珠光·REX·纯黄",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-rex-zg-99.png"
+    },
+    {
+      "name": "珠光·REX·纯黑",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-rex-zg-100.png"
+    },
+    {
+      "name": "珠光·YouTube·冰青蓝",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-1.png"
+    },
+    {
+      "name": "珠光·YouTube·经典红",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-2.png"
+    },
+    {
+      "name": "珠光·YouTube·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-3.png"
+    },
+    {
+      "name": "珠光·B站·晴空蓝",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-4.png"
+    },
+    {
+      "name": "珠光·B站·经典粉",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-5.png"
+    },
+    {
+      "name": "珠光·B站·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-6.png"
+    },
+    {
+      "name": "珠光·抖音·冰川青",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-7.png"
+    },
+    {
+      "name": "珠光·抖音·玫瑰红",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-8.png"
+    },
+    {
+      "name": "珠光·抖音·经典黑红青",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-9.png"
+    },
+    {
+      "name": "珠光·红果·桃花粉",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-10.png"
+    },
+    {
+      "name": "珠光·红果·经典橙",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-11.png"
+    },
+    {
+      "name": "珠光·红果·翡翠青",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-12.png"
+    },
+    {
+      "name": "珠光·黄果·经典黄",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-13.png"
+    },
+    {
+      "name": "珠光·直播·冰青蓝",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-14.png"
+    },
+    {
+      "name": "珠光·直播·经典玫红",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-15.png"
+    },
+    {
+      "name": "珠光·直播·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-16.png"
+    },
+    {
+      "name": "珠光·网易云·勃艮第红",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-17.png"
+    },
+    {
+      "name": "珠光·网易云·经典红",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-18.png"
+    },
+    {
+      "name": "珠光·网易云·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-19.png"
+    },
+    {
+      "name": "珠光·QQ音乐·冰湖蓝",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-20.png"
+    },
+    {
+      "name": "珠光·QQ音乐·经典黄绿",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-21.png"
+    },
+    {
+      "name": "珠光·QQ音乐·香芋紫",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-22.png"
+    },
+    {
+      "name": "珠光·虎牙·极光青",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-23.png"
+    },
+    {
+      "name": "珠光·虎牙·砂糖橘",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-24.png"
+    },
+    {
+      "name": "珠光·虎牙·经典金",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-25.png"
+    },
+    {
+      "name": "珠光·糖心·橙粉渐变",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-tx-zg-1.png"
+    },
+    {
+      "name": "珠光·糖心·玫瑰粉",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-tx-zg-2.png"
+    },
+    {
+      "name": "珠光·糖心·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-tx-zg-3.png"
+    },
+    {
+      "name": "珠光·Pornhub·冰青蓝",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-26.png"
+    },
+    {
+      "name": "珠光·Pornhub·经典橙黑",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-27.png"
+    },
+    {
+      "name": "珠光·Pornhub·香槟金",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-28.png"
+    },
+    {
+      "name": "珠光·欧美·双字徽标",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-29.png"
+    },
+    {
+      "name": "珠光·欧美·票根",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-30.png"
+    },
+    {
+      "name": "珠光·欧美·英文字标",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-zg-31.png"
+    },
+    {
+      "name": "珠光·儿童·兔兔·香芋紫",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-kid-zg-1.png"
+    },
+    {
+      "name": "珠光·儿童·太阳·暖阳黄",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-kid-zg-2.png"
+    },
+    {
+      "name": "珠光·儿童·小熊·蜜糖棕",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-kid-zg-3.png"
+    },
+    {
+      "name": "珠光·儿童·彩虹·糖果多彩",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-kid-zg-4.png"
+    },
+    {
+      "name": "珠光·儿童·气球·糖果多彩",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-kid-zg-5.png"
+    },
+    {
+      "name": "珠光·儿童·积木·糖果多彩",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-kid-zg-6.png"
+    },
+    {
+      "name": "珠光·小恐龙·珊瑚粉",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-dino-zg-1.png"
+    },
+    {
+      "name": "透明·REX·中灰",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-rex-tm-125.png"
+    },
+    {
+      "name": "透明·REX·亮橙",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-rex-tm-126.png"
+    },
+    {
+      "name": "透明·REX·亮绿",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-rex-tm-127.png"
+    },
+    {
+      "name": "透明·REX·洋红",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-rex-tm-128.png"
+    },
+    {
+      "name": "透明·REX·纯白",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-rex-tm-129.png"
+    },
+    {
+      "name": "透明·REX·纯红",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-rex-tm-130.png"
+    },
+    {
+      "name": "透明·REX·纯蓝",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-rex-tm-131.png"
+    },
+    {
+      "name": "透明·REX·纯青",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-rex-tm-132.png"
+    },
+    {
+      "name": "透明·REX·纯黄",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-rex-tm-133.png"
+    },
+    {
+      "name": "透明·REX·纯黑",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-rex-tm-134.png"
+    },
+    {
+      "name": "透明·YouTube·冰青蓝",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-tm-1.png"
+    },
+    {
+      "name": "透明·YouTube·经典红",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-tm-2.png"
+    },
+    {
+      "name": "透明·YouTube·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-tm-3.png"
+    },
+    {
+      "name": "透明·黄果·经典黄",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-tm-13.png"
+    },
+    {
+      "name": "透明·直播·冰青蓝",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-tm-14.png"
+    },
+    {
+      "name": "透明·直播·经典玫红",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-tm-15.png"
+    },
+    {
+      "name": "透明·直播·鸢尾紫",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-tm-16.png"
+    },
+    {
+      "name": "透明·Pornhub·冰青蓝",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-tm-26.png"
+    },
+    {
+      "name": "透明·Pornhub·经典橙黑",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-tm-27.png"
+    },
+    {
+      "name": "透明·Pornhub·香槟金",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-tm-28.png"
+    },
+    {
+      "name": "透明·欧美·双字徽标",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-tm-29.png"
+    },
+    {
+      "name": "透明·欧美·票根",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-tm-30.png"
+    },
+    {
+      "name": "透明·欧美·英文字标",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-tm-31.png"
+    },
+    {
+      "name": "透明·小恐龙·纯白",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-dino-tm-1.png"
+    },
+    {
+      "name": "纯白·AVDB·AVDB字标",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-avdb-cb-1.png"
+    },
+    {
+      "name": "纯白·AVDB·A字",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-avdb-cb-2.png"
+    },
+    {
+      "name": "纯白·AVDB·丝带AV",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-avdb-cb-3.png"
+    },
+    {
+      "name": "纯白·AVDB·媒体库",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-avdb-cb-4.png"
+    },
+    {
+      "name": "纯白·AVDB·立体A",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-avdb-cb-5.png"
+    },
+    {
+      "name": "纯白·AVDB·连笔AV",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-avdb-cb-6.png"
+    },
+    {
+      "name": "纯白·YouTube",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-cb-1.png"
+    },
+    {
+      "name": "纯白·B站",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-cb-2.png"
+    },
+    {
+      "name": "纯白·抖音",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-cb-3.png"
+    },
+    {
+      "name": "纯白·红果",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-cb-4.png"
+    },
+    {
+      "name": "纯白·直播",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-cb-5.png"
+    },
+    {
+      "name": "纯白·网易云",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-cb-6.png"
+    },
+    {
+      "name": "纯白·QQ音乐",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-cb-7.png"
+    },
+    {
+      "name": "纯白·虎牙",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-cb-8.png"
+    },
+    {
+      "name": "纯白·糖心",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-tx-cb-1.png"
+    },
+    {
+      "name": "纯白·Pornhub",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-cb-9.png"
+    },
+    {
+      "name": "纯白·欧美·双字徽标",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-cb-10.png"
+    },
+    {
+      "name": "纯白·欧美·票根",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-cb-11.png"
+    },
+    {
+      "name": "纯白·欧美·英文字标",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-cb-12.png"
+    },
+    {
+      "name": "纯白·儿童·兔兔",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-kid-cb-1.png"
+    },
+    {
+      "name": "纯白·儿童·太阳",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-kid-cb-2.png"
+    },
+    {
+      "name": "纯白·儿童·小熊",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-kid-cb-3.png"
+    },
+    {
+      "name": "纯白·儿童·彩虹",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-kid-cb-4.png"
+    },
+    {
+      "name": "纯白·儿童·气球",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-kid-cb-5.png"
+    },
+    {
+      "name": "纯白·儿童·积木",
+      "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-kid-cb-6.png"
     }
   ]
 }
