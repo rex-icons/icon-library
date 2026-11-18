@@ -1,6 +1,6 @@
 {
  "name": "夏恩图标合集",
- "description": "by:Rex模块研讨｜共1601个：Rex 透明131・珠光97 + AVDB 40 + 平台1100 + 糖心10 + 儿童24 + 角色199",
+ "description": "by:Rex模块研讨｜共1610个：Rex 透明131・珠光97 + AVDB 40 + 平台1100 + 糖心10 + 儿童24 + 角色208",
  "icons": [
   {
    "name": "TX01 糖心 · 橙粉渐变 · 透明",
@@ -6405,6 +6405,42 @@
   {
    "name": "xn·生活9",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/qinche6-9.png"
+  },
+  {
+   "name": "xn·系统1",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/qinche4-1.png"
+  },
+  {
+   "name": "xn·系统2",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/qinche4-2.png"
+  },
+  {
+   "name": "xn·系统3",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/qinche4-3.png"
+  },
+  {
+   "name": "xn·系统4",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/qinche4-4.png"
+  },
+  {
+   "name": "xn·系统5",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/qinche4-5.png"
+  },
+  {
+   "name": "xn·系统6",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/qinche4-6.png"
+  },
+  {
+   "name": "xn·系统7",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/qinche4-7.png"
+  },
+  {
+   "name": "xn·系统8",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/qinche4-8.png"
+  },
+  {
+   "name": "xn·系统9",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/qinche4-9.png"
   }
  ]
 }
