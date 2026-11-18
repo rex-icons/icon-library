@@ -1,6 +1,6 @@
 {
  "name": "夏恩图标合集",
- "description": "by:Rex模块研讨｜共1570个：Rex 透明131・珠光97 + AVDB 40 + 平台1136 + 糖心10 + 儿童24 + 角色132",
+ "description": "by:Rex模块研讨｜共1534个：Rex 透明131・珠光97 + AVDB 40 + 平台1100 + 糖心10 + 儿童24 + 角色132",
  "icons": [
   {
    "name": "TX01 糖心 · 橙粉渐变 · 透明",
@@ -315,10 +315,6 @@
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/full-c06-clear.png"
   },
   {
-   "name": "BiLiBiLi-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-bilibili-1.png"
-  },
-  {
    "name": "BiLiBiLi-2",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-bilibili-2.png"
   },
@@ -329,10 +325,6 @@
   {
    "name": "BiLiBiLi-4",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-bilibili-4.png"
-  },
-  {
-   "name": "Emby-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-emby-1.png"
   },
   {
    "name": "Emby-2",
@@ -363,10 +355,6 @@
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-g-08.png"
   },
   {
-   "name": "Jellfyfin-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-jellyfin-1.png"
-  },
-  {
    "name": "Jellfyfin-2",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-jellyfin-2.png"
   },
@@ -377,10 +365,6 @@
   {
    "name": "Jellfyfin-4",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-jellyfin-4.png"
-  },
-  {
-   "name": "QQ音乐-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-qq-music-1.png"
   },
   {
    "name": "QQ音乐-2",
@@ -395,10 +379,6 @@
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-qq-music-4.png"
   },
   {
-   "name": "YouTube-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-youtube-1.png"
-  },
-  {
    "name": "YouTube-2",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-youtube-2.png"
   },
@@ -409,10 +389,6 @@
   {
    "name": "YouTube-4",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-youtube-4.png"
-  },
-  {
-   "name": "阿里云盘-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-aliyun-drive-1.png"
   },
   {
    "name": "阿里云盘-2",
@@ -427,10 +403,6 @@
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-aliyun-drive-4.png"
   },
   {
-   "name": "爱奇艺-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-iqiyi-1.png"
-  },
-  {
    "name": "爱奇艺-2",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-iqiyi-2.png"
   },
@@ -441,10 +413,6 @@
   {
    "name": "爱奇艺-4",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-iqiyi-4.png"
-  },
-  {
-   "name": "百度云网盘-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-baidu-drive-1.png"
   },
   {
    "name": "百度云网盘-2",
@@ -459,10 +427,6 @@
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-baidu-drive-4.png"
   },
   {
-   "name": "抖音-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-douyin-1.png"
-  },
-  {
    "name": "抖音-2",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-douyin-2.png"
   },
@@ -473,10 +437,6 @@
   {
    "name": "抖音-4",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-douyin-4.png"
-  },
-  {
-   "name": "红果短剧-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-hongguo-1.png"
   },
   {
    "name": "红果短剧-2",
@@ -491,10 +451,6 @@
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-hongguo-4.png"
   },
   {
-   "name": "酷狗音乐-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-kugou-1.png"
-  },
-  {
    "name": "酷狗音乐-2",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-kugou-2.png"
   },
@@ -505,10 +461,6 @@
   {
    "name": "酷狗音乐-4",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-kugou-4.png"
-  },
-  {
-   "name": "酷我音乐-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-kuwo-1.png"
   },
   {
    "name": "酷我音乐-2",
@@ -523,10 +475,6 @@
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-kuwo-4.png"
   },
   {
-   "name": "夸克网盘-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-quark-drive-1.png"
-  },
-  {
    "name": "夸克网盘-2",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-quark-drive-2.png"
   },
@@ -537,10 +485,6 @@
   {
    "name": "夸克网盘-4",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-quark-drive-4.png"
-  },
-  {
-   "name": "快手-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-kuaishou-1.png"
   },
   {
    "name": "快手-2",
@@ -555,10 +499,6 @@
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-kuaishou-4.png"
   },
   {
-   "name": "芒果TV-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-mgtv-1.png"
-  },
-  {
    "name": "芒果TV-2",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-mgtv-2.png"
   },
@@ -569,10 +509,6 @@
   {
    "name": "芒果TV-4",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-mgtv-4.png"
-  },
-  {
-   "name": "腾讯视频-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-tencent-video-1.png"
   },
   {
    "name": "腾讯视频-2",
@@ -587,10 +523,6 @@
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-tencent-video-4.png"
   },
   {
-   "name": "网易云-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-netease-music-1.png"
-  },
-  {
    "name": "网易云-2",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-netease-music-2.png"
   },
@@ -601,10 +533,6 @@
   {
    "name": "网易云-4",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-netease-music-4.png"
-  },
-  {
-   "name": "迅雷网盘-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-xunlei-drive-1.png"
   },
   {
    "name": "迅雷网盘-2",
@@ -619,10 +547,6 @@
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-xunlei-drive-4.png"
   },
   {
-   "name": "移动云盘-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-cmcc-drive-1.png"
-  },
-  {
    "name": "移动云盘-2",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-cmcc-drive-2.png"
   },
@@ -633,10 +557,6 @@
   {
    "name": "移动云盘-4",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-cmcc-drive-4.png"
-  },
-  {
-   "name": "优酷视频-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-youku-1.png"
   },
   {
    "name": "优酷视频-2",
@@ -651,10 +571,6 @@
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-youku-4.png"
   },
   {
-   "name": "直播 live-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-live-1.png"
-  },
-  {
    "name": "直播 live-2",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-live-2.png"
   },
@@ -665,10 +581,6 @@
   {
    "name": "直播 live-4",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-live-4.png"
-  },
-  {
-   "name": "AV-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-av-1.png"
   },
   {
    "name": "AV-2",
@@ -683,10 +595,6 @@
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-av-4.png"
   },
   {
-   "name": "BL-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-bl-1.png"
-  },
-  {
    "name": "BL-2",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-bl-2.png"
   },
@@ -697,10 +605,6 @@
   {
    "name": "BL-4",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-bl-4.png"
-  },
-  {
-   "name": "GL-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-gl-1.png"
   },
   {
    "name": "GL-2",
@@ -715,10 +619,6 @@
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-gl-4.png"
   },
   {
-   "name": "儿童教育-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-children-edu-1.png"
-  },
-  {
    "name": "儿童教育-2",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-children-edu-2.png"
   },
@@ -729,10 +629,6 @@
   {
    "name": "儿童教育-4",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-children-edu-4.png"
-  },
-  {
-   "name": "光鸭网盘-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-guangya-drive-1.png"
   },
   {
    "name": "光鸭网盘-2",
@@ -747,10 +643,6 @@
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-guangya-drive-4.png"
   },
   {
-   "name": "奈飞-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-netflix-1.png"
-  },
-  {
    "name": "奈飞-2",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-netflix-2.png"
   },
@@ -761,10 +653,6 @@
   {
    "name": "奈飞-4",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-netflix-4.png"
-  },
-  {
-   "name": "猫源-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-cat-video-1.png"
   },
   {
    "name": "猫源-2",
@@ -779,10 +667,6 @@
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-cat-video-4.png"
   },
   {
-   "name": "APTV-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-apple-tv-1.png"
-  },
-  {
    "name": "APTV-2",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-apple-tv-2.png"
   },
@@ -793,10 +677,6 @@
   {
    "name": "APTV-4",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-apple-tv-4.png"
-  },
-  {
-   "name": "苹果音乐 (1)",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-apple-music-1.png"
   },
   {
    "name": "苹果音乐 (2)",
@@ -811,10 +691,6 @@
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-apple-music-4.png"
   },
   {
-   "name": "虎牙直播-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-huya-live-1.png"
-  },
-  {
    "name": "虎牙直播-2",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-huya-live-2.png"
   },
@@ -825,10 +701,6 @@
   {
    "name": "虎牙直播-4",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-huya-live-4.png"
-  },
-  {
-   "name": "MaKaBaKa-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-makabaka-1.png"
   },
   {
    "name": "MaKaBaKa-2",
@@ -843,10 +715,6 @@
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-makabaka-4.png"
   },
   {
-   "name": "Rex-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-rex-1.png"
-  },
-  {
    "name": "Rex-2",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-rex-2.png"
   },
@@ -859,10 +727,6 @@
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-rex-4.png"
   },
   {
-   "name": "黄果短剧-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-huangguo-mod-1.png"
-  },
-  {
    "name": "黄果短剧-2",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-huangguo-mod-2.png"
   },
@@ -873,10 +737,6 @@
   {
    "name": "黄果短剧-4",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-huangguo-mod-4.png"
-  },
-  {
-   "name": "黄豆魔改-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-huangdou-drama-1.png"
   },
   {
    "name": "黄豆魔改-2",
@@ -3653,10 +3513,6 @@
   {
    "name": "通用短剧弹幕 · 珠光底板 · 气泡512",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/rexsq-danmu.png"
-  },
-  {
-   "name": "音乐-1",
-   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-music-1.png"
   },
   {
    "name": "音乐-4",
