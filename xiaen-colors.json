@@ -1,6 +1,6 @@
 {
  "name": "夏恩图标合集",
- "description": "by:Rex模块研讨｜共1534个：Rex 透明131・珠光97 + AVDB 40 + 平台1100 + 糖心10 + 儿童24 + 角色132",
+ "description": "by:Rex模块研讨｜共1539个：Rex 透明131・珠光97 + AVDB 40 + 平台1100 + 糖心10 + 儿童24 + 角色137",
  "icons": [
   {
    "name": "TX01 糖心 · 橙粉渐变 · 透明",
@@ -6137,6 +6137,26 @@
   {
    "name": "纯白·Audible",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/sp-pf-cb-57.png"
+  },
+  {
+   "name": "夏恩1",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/xiaen-hood-1.png"
+  },
+  {
+   "name": "夏恩2",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/xiaen-hood-2.png"
+  },
+  {
+   "name": "夏恩3",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/xiaen-hood-3.png"
+  },
+  {
+   "name": "夏恩4",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/xiaen-hood-4.png"
+  },
+  {
+   "name": "夏恩5",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/xiaen-hood-5.png"
   }
  ]
 }
