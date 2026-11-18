@@ -1,6 +1,6 @@
 {
  "name": "夏恩图标合集",
- "description": "by:Rex模块研讨｜共1539个：Rex 透明131・珠光97 + AVDB 40 + 平台1100 + 糖心10 + 儿童24 + 角色137",
+ "description": "by:Rex模块研讨｜共1556个：Rex 透明131・珠光97 + AVDB 40 + 平台1100 + 糖心10 + 儿童24 + 角色154",
  "icons": [
   {
    "name": "TX01 糖心 · 橙粉渐变 · 透明",
@@ -6157,6 +6157,74 @@
   {
    "name": "夏恩5",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/xiaen-hood-5.png"
+  },
+  {
+   "name": "不屑小猫·微信",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/buxie-weixin.png"
+  },
+  {
+   "name": "不屑小猫·QQ",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/buxie-qq.png"
+  },
+  {
+   "name": "不屑小猫·抖音",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/buxie-douyin.png"
+  },
+  {
+   "name": "不屑小猫·支付宝",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/buxie-alipay.png"
+  },
+  {
+   "name": "不屑小猫·小红书",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/buxie-xiaohongshu.png"
+  },
+  {
+   "name": "不屑小猫·微博",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/buxie-weibo.png"
+  },
+  {
+   "name": "不屑小猫·哔哩哔哩",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/buxie-bilibili.png"
+  },
+  {
+   "name": "不屑小猫·淘宝",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/buxie-taobao.png"
+  },
+  {
+   "name": "不屑小猫·网易云",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/buxie-netease.png"
+  },
+  {
+   "name": "哥特·哔哩哔哩",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gothic-bilibili.png"
+  },
+  {
+   "name": "哥特·微博",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gothic-weibo.png"
+  },
+  {
+   "name": "哥特·百度",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gothic-baidu.png"
+  },
+  {
+   "name": "哥特·支付宝",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gothic-alipay.png"
+  },
+  {
+   "name": "哥特·小红书",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gothic-redbook.png"
+  },
+  {
+   "name": "哥特·淘宝",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gothic-taobao.png"
+  },
+  {
+   "name": "哥特·QQ",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gothic-qq.png"
+  },
+  {
+   "name": "哥特·微信",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gothic-weixin.png"
   }
  ]
 }
