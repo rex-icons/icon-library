@@ -1,6 +1,6 @@
 {
  "name": "夏恩图标合集",
- "description": "by:Rex模块研讨｜共1653个：Rex 透明131・珠光97 + AVDB 40 + 平台1143 + 糖心10 + 儿童24 + 角色208",
+ "description": "by:Rex模块研讨｜共1911个：Rex 透明297・珠光97 + AVDB 40 + 平台1235 + 糖心10 + 儿童24 + 角色208",
  "icons": [
   {
    "name": "TX01 糖心 · 橙粉渐变 · 透明",
@@ -6613,6 +6613,1038 @@
   {
    "name": "落雪音源-4",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/gg-luoxue-4.png"
+  },
+  {
+   "name": "001_blue_azure",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-001-blue-azure.png"
+  },
+  {
+   "name": "002_blue_cerulean",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-002-blue-cerulean.png"
+  },
+  {
+   "name": "003_blue_cobalt",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-003-blue-cobalt.png"
+  },
+  {
+   "name": "004_blue_denim",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-004-blue-denim.png"
+  },
+  {
+   "name": "005_blue_royal",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-005-blue-royal.png"
+  },
+  {
+   "name": "006_blue_sky",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-006-blue-sky.png"
+  },
+  {
+   "name": "007_green_apple",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-007-green-apple.png"
+  },
+  {
+   "name": "008_green_emerald",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-008-green-emerald.png"
+  },
+  {
+   "name": "009_green_fern",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-009-green-fern.png"
+  },
+  {
+   "name": "010_green_kelly",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-010-green-kelly.png"
+  },
+  {
+   "name": "011_green_lime",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-011-green-lime.png"
+  },
+  {
+   "name": "012_green_seafoam",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-012-green-seafoam.png"
+  },
+  {
+   "name": "013_indigo_deep_indigo",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-013-indigo-deep-indigo.png"
+  },
+  {
+   "name": "014_indigo_indigo",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-014-indigo-indigo.png"
+  },
+  {
+   "name": "015_indigo_iris",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-015-indigo-iris.png"
+  },
+  {
+   "name": "016_indigo_periwinkle",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-016-indigo-periwinkle.png"
+  },
+  {
+   "name": "017_indigo_twilight",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-017-indigo-twilight.png"
+  },
+  {
+   "name": "018_indigo_ultramarine",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-018-indigo-ultramarine.png"
+  },
+  {
+   "name": "019_orange_amber",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-019-orange-amber.png"
+  },
+  {
+   "name": "020_orange_cantaloupe",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-020-orange-cantaloupe.png"
+  },
+  {
+   "name": "021_orange_flame",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-021-orange-flame.png"
+  },
+  {
+   "name": "022_orange_papaya",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-022-orange-papaya.png"
+  },
+  {
+   "name": "023_orange_pumpkin",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-023-orange-pumpkin.png"
+  },
+  {
+   "name": "024_orange_tangerine",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-024-orange-tangerine.png"
+  },
+  {
+   "name": "025_purple_amethyst",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-025-purple-amethyst.png"
+  },
+  {
+   "name": "026_purple_grape",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-026-purple-grape.png"
+  },
+  {
+   "name": "027_purple_lilac",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-027-purple-lilac.png"
+  },
+  {
+   "name": "028_purple_orchid",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-028-purple-orchid.png"
+  },
+  {
+   "name": "029_purple_royal_purple",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-029-purple-royal-purple.png"
+  },
+  {
+   "name": "030_purple_violet",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-030-purple-violet.png"
+  },
+  {
+   "name": "031_red_brick",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-031-red-brick.png"
+  },
+  {
+   "name": "032_red_cherry",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-032-red-cherry.png"
+  },
+  {
+   "name": "033_red_crimson",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-033-red-crimson.png"
+  },
+  {
+   "name": "034_red_lava",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-034-red-lava.png"
+  },
+  {
+   "name": "035_red_raspberry",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-035-red-raspberry.png"
+  },
+  {
+   "name": "036_red_scarlet",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-036-red-scarlet.png"
+  },
+  {
+   "name": "037_yellow_banana",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-037-yellow-banana.png"
+  },
+  {
+   "name": "038_yellow_butter",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-038-yellow-butter.png"
+  },
+  {
+   "name": "039_yellow_canary",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-039-yellow-canary.png"
+  },
+  {
+   "name": "040_yellow_honey",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-040-yellow-honey.png"
+  },
+  {
+   "name": "041_yellow_lemon",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-041-yellow-lemon.png"
+  },
+  {
+   "name": "042_yellow_sunflower",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-042-yellow-sunflower.png"
+  },
+  {
+   "name": "043_Mystic_Black",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-043-mystic-black.png"
+  },
+  {
+   "name": "044_Smoked_Chestnut",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-044-smoked-chestnut.png"
+  },
+  {
+   "name": "045_Soy_Brown",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-045-soy-brown.png"
+  },
+  {
+   "name": "046_Rush_Wick_Grey",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-046-rush-wick-grey.png"
+  },
+  {
+   "name": "047_Indigo_Ink",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-047-indigo-ink.png"
+  },
+  {
+   "name": "049_Sand_Cyan",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-049-sand-cyan.png"
+  },
+  {
+   "name": "050_Cypress_Slate_Blue",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-050-cypress-slate-blue.png"
+  },
+  {
+   "name": "051_Deep_Navy",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-051-deep-navy.png"
+  },
+  {
+   "name": "052_Flower_Blue",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-052-flower-blue.png"
+  },
+  {
+   "name": "053_Bamboo_Moon",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-053-bamboo-moon.png"
+  },
+  {
+   "name": "054_Misty_Moon_Blue",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-054-misty-moon-blue.png"
+  },
+  {
+   "name": "055_Moon_White",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-055-moon-white.png"
+  },
+  {
+   "name": "056_Calamine_Powder",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-056-calamine-powder.png"
+  },
+  {
+   "name": "057_Rice_Beige",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-057-rice-beige.png"
+  },
+  {
+   "name": "058_Jade_Green",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-058-jade-green.png"
+  },
+  {
+   "name": "059_Peacock_Green",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-059-peacock-green.png"
+  },
+  {
+   "name": "060_Crystal_Green",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-060-crystal-green.png"
+  },
+  {
+   "name": "061_Jasper",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-061-jasper.png"
+  },
+  {
+   "name": "062_Deep_Pine",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-062-deep-pine.png"
+  },
+  {
+   "name": "063_Pale_Azure",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-063-pale-azure.png"
+  },
+  {
+   "name": "064_Secret_Celadon",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-064-secret-celadon.png"
+  },
+  {
+   "name": "065_Lotus_Leaf",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-065-lotus-leaf.png"
+  },
+  {
+   "name": "066_Green_Pea",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-066-green-pea.png"
+  },
+  {
+   "name": "067_Verdigris",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-067-verdigris.png"
+  },
+  {
+   "name": "068_Withered_Green",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-068-withered-green.png"
+  },
+  {
+   "name": "069_Tea_Brown",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-069-tea-brown.png"
+  },
+  {
+   "name": "070_Turmeric",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-070-turmeric.png"
+  },
+  {
+   "name": "071_Autumn_Fragrance",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-071-autumn-fragrance.png"
+  },
+  {
+   "name": "072_Daylily",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-072-daylily.png"
+  },
+  {
+   "name": "073_Amber",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-073-amber.png"
+  },
+  {
+   "name": "074_Cinnabar_Orange",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-074-cinnabar-orange.png"
+  },
+  {
+   "name": "075_Dawn_Red",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-075-dawn-red.png"
+  },
+  {
+   "name": "076_Sappanwood",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-076-sappanwood.png"
+  },
+  {
+   "name": "077_Peach_Pink",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-077-peach-pink.png"
+  },
+  {
+   "name": "078_Lotus_Purple",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-078-lotus-purple.png"
+  },
+  {
+   "name": "079_Hibiscus_Purple",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-079-hibiscus-purple.png"
+  },
+  {
+   "name": "080_Snow_Lavender",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-080-snow-lavender.png"
+  },
+  {
+   "name": "081_Lilac",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-081-lilac.png"
+  },
+  {
+   "name": "082_Lotus_Root_Mauve",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-082-lotus-root-mauve.png"
+  },
+  {
+   "name": "083_red_pastel",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-083-red-pastel.png"
+  },
+  {
+   "name": "084_red_vivid",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-084-red-vivid.png"
+  },
+  {
+   "name": "085_red_deep",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-085-red-deep.png"
+  },
+  {
+   "name": "086_red_muted",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-086-red-muted.png"
+  },
+  {
+   "name": "087_red_bright",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-087-red-bright.png"
+  },
+  {
+   "name": "088_vermilion_pastel",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-088-vermilion-pastel.png"
+  },
+  {
+   "name": "089_vermilion_bright",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-089-vermilion-bright.png"
+  },
+  {
+   "name": "090_orange_bright",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-090-orange-bright.png"
+  },
+  {
+   "name": "091_amber_pastel",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-091-amber-pastel.png"
+  },
+  {
+   "name": "092_amber_deep",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-092-amber-deep.png"
+  },
+  {
+   "name": "093_amber_bright",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-093-amber-bright.png"
+  },
+  {
+   "name": "094_gold_vivid",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-094-gold-vivid.png"
+  },
+  {
+   "name": "095_gold_deep",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-095-gold-deep.png"
+  },
+  {
+   "name": "096_gold_bright",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-096-gold-bright.png"
+  },
+  {
+   "name": "097_yellow_pastel",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-097-yellow-pastel.png"
+  },
+  {
+   "name": "098_yellow_vivid",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-098-yellow-vivid.png"
+  },
+  {
+   "name": "099_yellow_deep",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-099-yellow-deep.png"
+  },
+  {
+   "name": "100_yellow_muted",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-100-yellow-muted.png"
+  },
+  {
+   "name": "101_chartreuse_pastel",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-101-chartreuse-pastel.png"
+  },
+  {
+   "name": "102_chartreuse_deep",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-102-chartreuse-deep.png"
+  },
+  {
+   "name": "103_chartreuse_bright",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-103-chartreuse-bright.png"
+  },
+  {
+   "name": "104_lime_pastel",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-104-lime-pastel.png"
+  },
+  {
+   "name": "105_lime_vivid",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-105-lime-vivid.png"
+  },
+  {
+   "name": "106_lime_deep",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-106-lime-deep.png"
+  },
+  {
+   "name": "107_lime_muted",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-107-lime-muted.png"
+  },
+  {
+   "name": "108_lime_bright",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-108-lime-bright.png"
+  },
+  {
+   "name": "109_green_pastel",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-109-green-pastel.png"
+  },
+  {
+   "name": "110_green_vivid",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-110-green-vivid.png"
+  },
+  {
+   "name": "111_green_deep",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-111-green-deep.png"
+  },
+  {
+   "name": "112_green_bright",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-112-green-bright.png"
+  },
+  {
+   "name": "113_emerald_pastel",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-113-emerald-pastel.png"
+  },
+  {
+   "name": "114_emerald_vivid",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-114-emerald-vivid.png"
+  },
+  {
+   "name": "115_emerald_deep",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-115-emerald-deep.png"
+  },
+  {
+   "name": "116_emerald_muted",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-116-emerald-muted.png"
+  },
+  {
+   "name": "117_emerald_bright",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-117-emerald-bright.png"
+  },
+  {
+   "name": "118_mint_pastel",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-118-mint-pastel.png"
+  },
+  {
+   "name": "119_mint_vivid",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-119-mint-vivid.png"
+  },
+  {
+   "name": "120_mint_deep",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-120-mint-deep.png"
+  },
+  {
+   "name": "121_mint_bright",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-121-mint-bright.png"
+  },
+  {
+   "name": "122_teal_pastel",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-122-teal-pastel.png"
+  },
+  {
+   "name": "123_teal_vivid",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-123-teal-vivid.png"
+  },
+  {
+   "name": "124_teal_deep",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-124-teal-deep.png"
+  },
+  {
+   "name": "125_teal_bright",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-125-teal-bright.png"
+  },
+  {
+   "name": "126_cyan_pastel",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-126-cyan-pastel.png"
+  },
+  {
+   "name": "127_cyan_deep",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-127-cyan-deep.png"
+  },
+  {
+   "name": "128_cyan_bright",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-128-cyan-bright.png"
+  },
+  {
+   "name": "129_sky_deep",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-129-sky-deep.png"
+  },
+  {
+   "name": "130_sky_bright",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-130-sky-bright.png"
+  },
+  {
+   "name": "131_blue_pastel",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-131-blue-pastel.png"
+  },
+  {
+   "name": "132_blue_vivid",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-132-blue-vivid.png"
+  },
+  {
+   "name": "133_blue_deep",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-133-blue-deep.png"
+  },
+  {
+   "name": "134_blue_bright",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-134-blue-bright.png"
+  },
+  {
+   "name": "135_indigo_pastel",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-135-indigo-pastel.png"
+  },
+  {
+   "name": "136_indigo_vivid",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-136-indigo-vivid.png"
+  },
+  {
+   "name": "137_indigo_deep",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-137-indigo-deep.png"
+  },
+  {
+   "name": "138_indigo_bright",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-138-indigo-bright.png"
+  },
+  {
+   "name": "139_violet_pastel",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-139-violet-pastel.png"
+  },
+  {
+   "name": "140_violet_vivid",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-140-violet-vivid.png"
+  },
+  {
+   "name": "141_violet_bright",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-141-violet-bright.png"
+  },
+  {
+   "name": "142_purple_pastel",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-142-purple-pastel.png"
+  },
+  {
+   "name": "143_purple_vivid",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-143-purple-vivid.png"
+  },
+  {
+   "name": "144_purple_deep",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-144-purple-deep.png"
+  },
+  {
+   "name": "145_purple_bright",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-145-purple-bright.png"
+  },
+  {
+   "name": "146_magenta_pastel",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-146-magenta-pastel.png"
+  },
+  {
+   "name": "147_magenta_vivid",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-147-magenta-vivid.png"
+  },
+  {
+   "name": "148_magenta_deep",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-148-magenta-deep.png"
+  },
+  {
+   "name": "149_magenta_muted",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-149-magenta-muted.png"
+  },
+  {
+   "name": "150_magenta_bright",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-150-magenta-bright.png"
+  },
+  {
+   "name": "151_rose_pastel",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-151-rose-pastel.png"
+  },
+  {
+   "name": "152_rose_vivid",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-152-rose-vivid.png"
+  },
+  {
+   "name": "153_rose_deep",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-153-rose-deep.png"
+  },
+  {
+   "name": "154_rose_muted",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-154-rose-muted.png"
+  },
+  {
+   "name": "155_rose_bright",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-155-rose-bright.png"
+  },
+  {
+   "name": "Rex-Black",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-rex-black.png"
+  },
+  {
+   "name": "Rex",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-rex.png"
+  },
+  {
+   "name": "Rex_Orange",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-rex-orange.png"
+  },
+  {
+   "name": "Rex_Purple",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-rex-purple.png"
+  },
+  {
+   "name": "Rex_Rainbow",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-rex-rainbow.png"
+  },
+  {
+   "name": "Rex_Rainbow_Lite",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-rex-rainbow-lite.png"
+  },
+  {
+   "name": "Rex_Red",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-rex-red.png"
+  },
+  {
+   "name": "Rex_White",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-rex-white.png"
+  },
+  {
+   "name": "g3_aurora_horizontal",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-g3-aurora-horizontal.png"
+  },
+  {
+   "name": "g4_candy_reverse_diag",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-g4-candy-reverse-diag.png"
+  },
+  {
+   "name": "g5_conic_rainbow",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-g5-conic-rainbow.png"
+  },
+  {
+   "name": "g7_wave_vivid",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/kr-g7-wave-vivid.png"
+  },
+  {
+   "name": "迷雾剧场",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-001.png"
+  },
+  {
+   "name": "白夜剧场",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-002.png"
+  },
+  {
+   "name": "X剧场",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-003.png"
+  },
+  {
+   "name": "生花剧场",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-004.png"
+  },
+  {
+   "name": "大家剧场",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-005.png"
+  },
+  {
+   "name": "小逗剧场",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-006.png"
+  },
+  {
+   "name": "十分剧场",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-007.png"
+  },
+  {
+   "name": "板凳单元",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-008.png"
+  },
+  {
+   "name": "萤火单元",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-009.png"
+  },
+  {
+   "name": "正午阳光",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-010.png"
+  },
+  {
+   "name": "恋恋剧场",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-011.png"
+  },
+  {
+   "name": "微尘剧场",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-012.png"
+  },
+  {
+   "name": "悬疑剧场",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-013.png"
+  },
+  {
+   "name": "红果短剧",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-014.png"
+  },
+  {
+   "name": "七猫短剧",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-015.png"
+  },
+  {
+   "name": "星芽短剧",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-016.png"
+  },
+  {
+   "name": "河马剧场",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-017.png"
+  },
+  {
+   "name": "喜番短剧",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-018.png"
+  },
+  {
+   "name": "围观短剧",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-019.png"
+  },
+  {
+   "name": "火龙漫剧",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-020.png"
+  },
+  {
+   "name": "柚漫剧",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-021.png"
+  },
+  {
+   "name": "好看短剧",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-022.png"
+  },
+  {
+   "name": "抖音精选",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-023.png"
+  },
+  {
+   "name": "腾讯视频",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-024.png"
+  },
+  {
+   "name": "爱奇艺",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-025.png"
+  },
+  {
+   "name": "优酷",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-026.png"
+  },
+  {
+   "name": "芒果TV",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-027.png"
+  },
+  {
+   "name": "Bilibili",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-028.png"
+  },
+  {
+   "name": "咪咕视频",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-029.png"
+  },
+  {
+   "name": "央视频",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-030.png"
+  },
+  {
+   "name": "搜狐视频",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-031.png"
+  },
+  {
+   "name": "湖南卫视",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-032.png"
+  },
+  {
+   "name": "浙江卫视",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-033.png"
+  },
+  {
+   "name": "东方卫视",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-034.png"
+  },
+  {
+   "name": "CCTV-8",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-035.png"
+  },
+  {
+   "name": "ViuTV",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-036.png"
+  },
+  {
+   "name": "LINE TV",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-037.png"
+  },
+  {
+   "name": "Hami Video",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-038.png"
+  },
+  {
+   "name": "Hami Video 纯字标",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-039.png"
+  },
+  {
+   "name": "CATCHPLAY",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-040.png"
+  },
+  {
+   "name": "myTV SUPER",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-041.png"
+  },
+  {
+   "name": "Netflix",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-042.png"
+  },
+  {
+   "name": "HBO",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-043.png"
+  },
+  {
+   "name": "HBO Max",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-044.png"
+  },
+  {
+   "name": "Disney+",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-045.png"
+  },
+  {
+   "name": "Apple TV",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-046.png"
+  },
+  {
+   "name": "Prime Video",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-047.png"
+  },
+  {
+   "name": "Hulu",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-048.png"
+  },
+  {
+   "name": "Peacock",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-049.png"
+  },
+  {
+   "name": "Paramount+",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-050.png"
+  },
+  {
+   "name": "AMC+",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-051.png"
+  },
+  {
+   "name": "STARZ",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-052.png"
+  },
+  {
+   "name": "ABC",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-053.png"
+  },
+  {
+   "name": "国家地理",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-054.png"
+  },
+  {
+   "name": "tvN",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-055.png"
+  },
+  {
+   "name": "SBS",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-056.png"
+  },
+  {
+   "name": "KBS2",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-057.png"
+  },
+  {
+   "name": "JTBC",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-058.png"
+  },
+  {
+   "name": "WOWOW",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-059.png"
+  },
+  {
+   "name": "U-NEXT",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-060.png"
+  },
+  {
+   "name": "ABEMA",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-061.png"
+  },
+  {
+   "name": "TVING",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-062.png"
+  },
+  {
+   "name": "Wavve",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-063.png"
+  },
+  {
+   "name": "Coupang Play",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-064.png"
+  },
+  {
+   "name": "Viu",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-065.png"
+  },
+  {
+   "name": "Rakuten Viki",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-066.png"
+  },
+  {
+   "name": "ITVX",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-067.png"
+  },
+  {
+   "name": "Crunchyroll",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-068.png"
+  },
+  {
+   "name": "科幻",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-069.png"
+  },
+  {
+   "name": "悬疑",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-070.png"
+  },
+  {
+   "name": "恐怖",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-071.png"
+  },
+  {
+   "name": "犯罪",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-072.png"
+  },
+  {
+   "name": "动作",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-073.png"
+  },
+  {
+   "name": "喜剧",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-074.png"
+  },
+  {
+   "name": "爱情",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-075.png"
+  },
+  {
+   "name": "剧情",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-076.png"
+  },
+  {
+   "name": "奇幻",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-077.png"
+  },
+  {
+   "name": "动画",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-078.png"
+  },
+  {
+   "name": "纪录片",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-079.png"
+  },
+  {
+   "name": "冒险",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-080.png"
+  },
+  {
+   "name": "家庭",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-081.png"
+  },
+  {
+   "name": "历史",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-082.png"
+  },
+  {
+   "name": "音乐",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-083.png"
+  },
+  {
+   "name": "惊悚",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-084.png"
+  },
+  {
+   "name": "战争",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-085.png"
+  },
+  {
+   "name": "西部",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-086.png"
+  },
+  {
+   "name": "王牌综艺",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-087.png"
+  },
+  {
+   "name": "儿童",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-088.png"
+  },
+  {
+   "name": "新闻",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-089.png"
+  },
+  {
+   "name": "真人秀",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-090.png"
+  },
+  {
+   "name": "肥皂剧",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-091.png"
+  },
+  {
+   "name": "脱口秀",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-092.png"
   }
  ]
 }
