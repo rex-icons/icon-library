@@ -1,6 +1,6 @@
 {
  "name": "夏恩图标合集",
- "description": "by:Rex模块研讨｜共1911个：Rex 透明297・珠光97 + AVDB 40 + 平台1235 + 糖心10 + 儿童24 + 角色208",
+ "description": "by:Rex模块研讨｜共1918个：Rex 透明297・珠光97 + AVDB 40 + 平台1242 + 糖心10 + 儿童24 + 角色208",
  "icons": [
   {
    "name": "TX01 糖心 · 橙粉渐变 · 透明",
@@ -7645,6 +7645,34 @@
   {
    "name": "脱口秀",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/bg-092.png"
+  },
+  {
+   "name": "Benri",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-benri.png"
+  },
+  {
+   "name": "Benzhou",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-benzhou.png"
+  },
+  {
+   "name": "Benyue",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-benyue.png"
+  },
+  {
+   "name": "Zuixinshangchuan",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-zuixinshangchuan.png"
+  },
+  {
+   "name": "Zuixinshangshi",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-zuixinshangshi.png"
+  },
+  {
+   "name": "Guankancishu",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-guankancishu.png"
+  },
+  {
+   "name": "Zuigaodianzan",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-zuigaodianzan.png"
   }
  ]
 }
