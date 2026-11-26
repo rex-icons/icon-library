@@ -1,6 +1,6 @@
 {
  "name": "夏恩图标合集",
- "description": "by:Rex模块研讨｜共1918个：Rex 透明297・珠光97 + AVDB 40 + 平台1242 + 糖心10 + 儿童24 + 角色208",
+ "description": "by:Rex模块研讨｜共1934个：Rex 透明297・珠光97 + AVDB 40 + 平台1258 + 糖心10 + 儿童24 + 角色208",
  "icons": [
   {
    "name": "TX01 糖心 · 橙粉渐变 · 透明",
@@ -7673,6 +7673,70 @@
   {
    "name": "Zuigaodianzan",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-zuigaodianzan.png"
+  },
+  {
+   "name": "DaheChristmas",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-dahechristmas.png"
+  },
+  {
+   "name": "DaheUniform",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-daheuniform.png"
+  },
+  {
+   "name": "DaheRexHug",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-daherexhug.png"
+  },
+  {
+   "name": "DaheRexHead",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-daherexhead.png"
+  },
+  {
+   "name": "DaheRexCheek",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-daherexcheek.png"
+  },
+  {
+   "name": "DaheStyleCute",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-dahestylecute.png"
+  },
+  {
+   "name": "DaheStyleCool",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-dahestylecool.png"
+  },
+  {
+   "name": "DaheStyleSunny",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-dahestylesunny.png"
+  },
+  {
+   "name": "DaheStyleSleepy",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-dahestylesleepy.png"
+  },
+  {
+   "name": "DaheStyleSporty",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-dahestylesporty.png"
+  },
+  {
+   "name": "DaheStyleHalloween",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-dahestylehalloween.png"
+  },
+  {
+   "name": "DaheStyleMagical",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-dahestylemagical.png"
+  },
+  {
+   "name": "DaheSportyPunch",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-dahesportypunch.png"
+  },
+  {
+   "name": "DaheSleepyNod",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-dahesleepynod.png"
+  },
+  {
+   "name": "DaheCoolSlash",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-dahecoolslash.png"
+  },
+  {
+   "name": "DaheSakuraHug",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-dahesakurahug.png"
   }
  ]
 }
