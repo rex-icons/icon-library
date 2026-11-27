@@ -1,6 +1,6 @@
 {
  "name": "夏恩图标合集",
- "description": "by:Rex模块研讨｜共1934个：Rex 透明297・珠光97 + AVDB 40 + 平台1258 + 糖心10 + 儿童24 + 角色208",
+ "description": "by:Rex模块研讨｜共1937个：Rex 透明297・珠光97 + AVDB 40 + 平台1261 + 糖心10 + 儿童24 + 角色208",
  "icons": [
   {
    "name": "TX01 糖心 · 橙粉渐变 · 透明",
@@ -7737,6 +7737,18 @@
   {
    "name": "DaheSakuraHug",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-dahesakurahug.png"
+  },
+  {
+   "name": "OKBlink",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-okblink.png"
+  },
+  {
+   "name": "ErciyuanAngry",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-erciyuanangry.png"
+  },
+  {
+   "name": "ErciyuanFlameBurn",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-erciyuanflameburn.png"
   }
  ]
 }
