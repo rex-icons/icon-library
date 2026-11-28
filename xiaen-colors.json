@@ -1,6 +1,6 @@
 {
  "name": "夏恩图标合集",
- "description": "by:Rex模块研讨｜共1937个：Rex 透明297・珠光97 + AVDB 40 + 平台1261 + 糖心10 + 儿童24 + 角色208",
+ "description": "by:Rex模块研讨｜共1940个：Rex 透明297・珠光97 + AVDB 40 + 平台1264 + 糖心10 + 儿童24 + 角色208",
  "icons": [
   {
    "name": "TX01 糖心 · 橙粉渐变 · 透明",
@@ -7749,6 +7749,18 @@
   {
    "name": "ErciyuanFlameBurn",
    "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-erciyuanflameburn.png"
+  },
+  {
+   "name": "HeadphoneGirl",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-headphonegirl.png"
+  },
+  {
+   "name": "HeadphoneGirlNotes",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-headphonegirlnotes.png"
+  },
+  {
+   "name": "HeadphoneGirlRingMono",
+   "url": "https://raw.githubusercontent.com/rex-icons/icon-library/main/square-fast/ty-headphonegirlringmono.png"
   }
  ]
 }
